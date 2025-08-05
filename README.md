@@ -34,8 +34,4 @@ O código implementa os seguintes conceitos da lógica de programação:
    - XP > 10000 → Radiante
 4. A mensagem final é exibida com o nome e o nível do herói.
 
----
-
-Se quiser posso adicionar uma seção de "Como executar", "Pré-requisitos", ou "Licença", caso queira deixar mais completo. Deseja isso?
-
 
